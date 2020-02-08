@@ -1,4 +1,7 @@
 Uber
+WWE
+MMA
+The Olympics
 Facebook
 Google
 Twitter
@@ -113,3 +116,67 @@ Moët & Chandon
 Ralph Lauren
 Lenovo
 Tesla
+Coca-Cola
+Marvel
+Pinterest
+Fedex
+Nike
+BMW
+Uber
+McDonald’s
+Adidas
+Google
+Airbnb
+Goodyear
+Mastercard
+Michelin
+Mobil
+Volvo
+Target
+Fisher-Price
+Bayer
+3M
+AT&T
+Audi
+Barbie
+BMW
+Chiquita
+Canon
+Dunkin' Donuts
+FedEx
+GAP
+HP
+Intel
+Kodak
+LEGO
+Shell
+Toyota
+Visa
+Volkswagen
+WWF
+UPS
+Starbucks
+Rolex
+NBC
+7-Eleven
+Microsoft
+MTV
+NASA
+American Airlines
+Warner Bros.
+Walmart
+Burger King
+Levi's
+Mercedes-Benz
+Pepsi
+Apple
+Ford
+JPMorgan Chase
+Bank of America
+ExxonMobil
+Samsung Electronics
+Berkshire Hathaway
+Johnson & Johnson
+Nestlé
+Boeing
+Alibaba
